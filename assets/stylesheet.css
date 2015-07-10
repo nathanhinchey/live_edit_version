@@ -63,7 +63,7 @@ h1 {
 
 /*********** greeting ***********/
 .greeting {
-  background-image: url('images/inspiration_point_gradient_2.jpg');
+  background-image: url('images/inspiration_point_gradient_white.jpg');
   background-size: cover;
   min-height: 500px;
   padding-top: 20px;
@@ -101,10 +101,7 @@ h1.location {
 .about {
   margin: 40px;
   padding: 10px;
-  /*border-top: 5px solid #404;*/
-  /*border-bottom: 5px solid #404;*/
-  /*background-color: rgba(0,0,0,0.4);*/
-  color: #FFE;
+  font-size: 26px;
 }
 
 .portrait {
