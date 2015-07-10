@@ -94,8 +94,8 @@ h1.location {
   padding: 10px;
   /*border-top: 5px solid #404;*/
   /*border-bottom: 5px solid #404;*/
-  background-color: rgba(255,255,255,1);
-  color: #404;
+  /*background-color: rgba(255,255,255,1);*/
+  color: #FFF;
 }
 
 .portrait {
